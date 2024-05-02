@@ -1,6 +1,6 @@
 # 👾 Bandwith Patrol 👾
 
-![Bandwith Patrol](https://imgur.com/a/g8JCI4y)
+![Bandwith Patrol](https://github.com/instax-dutta/Bandwith-Usage-Dashboard/blob/main/logo.jpeg)
 
 ## 💻 Welcome to the Future of Real Time Bandwidth Monitoring 💻
 
