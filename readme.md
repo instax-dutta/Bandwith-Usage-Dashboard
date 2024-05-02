@@ -1,6 +1,6 @@
 # 👾 Bandwith Patrol 👾
 
-![Cyber Cafe Banner](https://raw.githubusercontent.com/yourusername/cyber-cafe/main/banner.png)
+![Bandwith Patrol](https://imgur.com/a/g8JCI4y)
 
 ## 💻 Welcome to the Future of Real Time Bandwidth Monitoring 💻
 
@@ -36,4 +36,4 @@ A special thanks to the open-source community for providing the tools and inspir
 
 ---
 
-Made with ❤️ and ☕ by [Your Name](https://github.com/yourusername)
+Made with ❤️ and ☕ by [Your Name](https://github.com/instax-dutta)
