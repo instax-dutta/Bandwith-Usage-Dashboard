@@ -1,10 +1,10 @@
-# 👾 Bandwith Patrol 👾
+# 👾 Bandwidth Patrol 👾
 
 ![Bandwith Patrol](https://github.com/instax-dutta/Bandwith-Usage-Dashboard/blob/main/logo.jpeg)
 
 ## 💻 Welcome to the Future of Real Time Bandwidth Monitoring 💻
 
-Introducing **Bandwith Patrol**, a cutting-edge web application that revolutionizes the way you monitor your bandwidth usage. With its sleek and intuitive interface, you can keep track of your data consumption like a true cyberpunk, ensuring you never exceed those pesky monthly limits again!
+Introducing **Bandwidth Patrol**, a cutting-edge web application that revolutionizes the way you monitor your bandwidth usage. With its sleek and intuitive interface, you can keep track of your data consumption like a true cyberpunk, ensuring you never exceed those pesky monthly limits again!
 
 ## ⚡ Features ⚡
 
