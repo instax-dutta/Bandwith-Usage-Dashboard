@@ -36,4 +36,4 @@ A special thanks to the open-source community for providing the tools and inspir
 
 ---
 
-Made with ❤️ and ☕ by [Your Name](https://github.com/instax-dutta)
+Made with ❤️ and ☕ by [Sai Dutta Abhishek Dash](https://github.com/instax-dutta)
