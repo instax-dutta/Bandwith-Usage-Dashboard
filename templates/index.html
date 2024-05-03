@@ -84,10 +84,29 @@
     <script>
         const socket = io();
 
+        // Function to toggle dark mode
         function toggleMode() {
             const body = document.body;
             body.classList.toggle('dark-mode');
+
+            // Save the mode to localStorage
+            const isDarkMode = body.classList.contains('dark-mode');
+            localStorage.setItem('darkMode', isDarkMode);
         }
+
+        // Function to set initial mode based on localStorage
+        function setInitialMode() {
+            const isDarkMode = localStorage.getItem('darkMode') === 'true';
+            const body = document.body;
+            if (isDarkMode) {
+                body.classList.add('dark-mode');
+            } else {
+                body.classList.remove('dark-mode');
+            }
+        }
+
+        // Call setInitialMode when the page loads
+        setInitialMode();
 
         socket.on('bandwidth_update', data => {
             document.getElementById('data-sent').textContent = data.gigabytes_sent.toFixed(2);
