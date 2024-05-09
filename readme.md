@@ -18,7 +18,7 @@ Introducing **Bandwidth Patrol**, a cutting-edge web application that revolution
 1. Clone this repository: `git clone https://github.com/instax-dutta/Bandwith-Usage-Dashboard.git`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python main.py`
-4. Open your favorite web browser and navigate to `http://localhost:8000`
+4. Open your favorite web browser and navigate to `http://localhost:5000`
 5. Buckle up and enjoy the cyber ride!
 
 
